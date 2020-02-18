@@ -3,4 +3,4 @@ Implementation of |00> + |11> bell state using Rx, Ry (Universal Quantum Gates) 
 <h2>Circuit</h2>
 <h4>(On IBM Circuit Composer)</h4>
 <img src="circuit.png">
-<hr>
+
